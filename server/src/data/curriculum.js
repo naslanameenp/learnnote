@@ -1,0 +1,91 @@
+export const curriculum = [
+  ["01. Number Sense & Foundations", [
+    "Natural numbers, whole numbers, integers","Place value and face value","Expanded form and number decomposition",
+    "Comparing and ordering numbers","Number lines and absolute value","Odd and even numbers",
+    "Positive and negative numbers","Rounding and estimation","Successor and predecessor","Roman numerals and numeral systems"
+  ]],
+  ["02. Basic Addition", [
+    "Single-digit addition facts","Addition tables and number bonds","Carrying and regrouping","Multi-digit addition",
+    "Adding mentally from left to right","Adding numbers near 10, 100 and 1,000","Compensation method",
+    "Adding multiple numbers rapidly","Column addition and checking answers"
+  ]],
+  ["03. Subtraction Mastery", [
+    "Single-digit subtraction facts","Complements to 10, 100 and 1,000","Borrowing and regrouping","Multi-digit subtraction",
+    "Left-to-right subtraction","Subtraction by compensation","Subtracting numbers near round numbers",
+    "Finding differences mentally","Checking subtraction using addition"
+  ]],
+  ["04. Multiplication Foundations", [
+    "Multiplication as repeated addition","Multiplication tables 1–10","Multiplication tables 11–20",
+    "Commutative and associative properties","Distributive property","Multiplying by 0 and 1",
+    "Multiplying by 2, 3, 4 and 5","Multiplying by 6, 7, 8 and 9","Multiplying by 10, 100 and 1,000",
+    "Multiplying by 11 and 12","Multiplying multi-digit numbers","Standard long multiplication"
+  ]],
+  ["05. Mental Multiplication Techniques", [
+    "Breaking numbers into parts","Left-to-right multiplication","Multiplication by doubling and halving",
+    "Multiplying by 5 and 50","Multiplying by 25 and 250","Multiplying by 125","Multiplying by 9, 99 and 999",
+    "Multiplying by 11 and 101","Multiplying numbers near 10, 100 and 1,000","Multiplying numbers ending in 5",
+    "Multiplying two-digit numbers mentally","Multiplying three-digit numbers mentally",
+    "Multiplying numbers with the same leading digits","Crosswise multiplication techniques","Choosing the fastest method"
+  ]],
+  ["06. Division Mastery", [
+    "Division as equal sharing and grouping","Division facts and tables","Long division","Division with remainders",
+    "Division by 10, 100 and 1,000","Division by 2, 4, 5, 8 and 25","Dividing using factorization",
+    "Doubling and halving in division","Mental division of multi-digit numbers","Division by decimals",
+    "Checking division using multiplication"
+  ]],
+  ["07. Factors, Multiples & Divisibility", [
+    "Factors and multiples","Prime and composite numbers","Prime factorization","Divisibility rules for 2, 3, 4 and 5",
+    "Divisibility rules for 6, 8, 9 and 10","Divisibility rules for 11","Greatest common divisor (GCD/HCF)",
+    "Least common multiple (LCM)","Common factors and common multiples","Relatively prime numbers","Finding factors quickly"
+  ]],
+  ["08. Fractions", [
+    "Numerator and denominator","Proper, improper and mixed fractions","Equivalent fractions","Simplifying fractions",
+    "Comparing fractions","Converting mixed and improper fractions","Adding and subtracting fractions",
+    "Multiplying fractions","Dividing fractions","Fractions of quantities","Complex fractions","Mental fraction calculations"
+  ]],
+  ["09. Decimals", [
+    "Decimal place value","Converting fractions to decimals","Comparing and ordering decimals",
+    "Adding and subtracting decimals","Multiplying decimals","Dividing decimals","Decimal multiplication by powers of 10",
+    "Recurring decimals","Rounding decimals","Fraction-decimal conversions mentally"
+  ]],
+  ["10. Percentages, Ratios & Proportions", [
+    "Understanding percentages","Converting percentages, fractions and decimals","Finding a percentage of a number",
+    "Finding the original number","Percentage increase and decrease","Successive percentage changes",
+    "Ratios and simplifying ratios","Dividing quantities in a ratio","Direct proportion","Inverse proportion",
+    "Mental percentage shortcuts"
+  ]],
+  ["11. Powers, Roots & Number Patterns", [
+    "Squares of numbers 1–30","Cubes of numbers 1–15","Powers and exponents","Laws of exponents","Powers of 10",
+    "Perfect squares and perfect cubes","Square roots","Cube roots","Estimating roots","Squares of numbers ending in 5",
+    "Squaring numbers near 50 and 100","Difference of two squares","Recognizing number patterns"
+  ]],
+  ["12. Integers & Order of Operations", [
+    "Rules for negative numbers","Adding and subtracting signed numbers","Multiplying and dividing signed numbers",
+    "Absolute value","BODMAS/PEMDAS","Nested brackets","Mixed arithmetic operations",
+    "Order of operations with fractions and powers"
+  ]],
+  ["13. Advanced Mental Arithmetic", [
+    "Complements and compensation strategies","Fast addition of long numbers","Fast subtraction of long numbers",
+    "Two-digit multiplication in the head","Three-digit multiplication in the head","Fast division and quotient estimation",
+    "Rapid squaring","Multiplication near a base","Percentage calculations in seconds",
+    "Estimating before calculating","Mental arithmetic with several steps","Remembering intermediate results",
+    "Verifying answers without a calculator"
+  ]],
+  ["14. Number Theory for Arithmetic", [
+    "Prime numbers and prime gaps","Factors and divisors","Perfect numbers","Remainders and modular arithmetic",
+    "Cyclicity of last digits","Last-digit patterns of powers","Digital roots and casting out nines",
+    "GCD and LCM applications","Trailing zeros in factorials","Factorials and counting basics"
+  ]],
+  ["15. Applied Arithmetic", [
+    "Money calculations and discounts","Profit, loss and selling price","Simple interest","Compound interest basics",
+    "Speed, distance and time","Work-rate problems","Unit conversions","Average and weighted average",
+    "Mixtures and proportions","Estimation in daily life","Checking whether an answer is reasonable"
+  ]],
+  ["16. Speed, Accuracy & Mastery Tests", [
+    "Answer basic facts accurately under time pressure","Complete addition speed drills","Complete subtraction speed drills",
+    "Complete multiplication speed drills","Complete division speed drills","Complete fractions and percentage drills",
+    "Solve mixed-operation challenges","Solve two-digit products without writing",
+    "Solve selected three-digit products mentally","Maintain at least 95% accuracy in timed drills",
+    "Beat your personal best without losing accuracy","Complete a final mixed arithmetic assessment"
+  ]]
+];
